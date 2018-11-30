@@ -1,3 +1,3 @@
 # fcc-voting
 
-This project is obsoleted.
+[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
